@@ -50,6 +50,11 @@ Open your browser at the printed URL (usually `http://localhost:5173` by default
 
 ---
 
+## Demo
+
+The app is deployed to GitHub Pages at: https://abdulwhbhussain.github.io/react-counter-form/
+
+
 ## Build & Preview
 
 Create a production build and preview locally:
